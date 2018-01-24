@@ -24,3 +24,4 @@
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
 9.	Hver fann upp GIT?
+10.	Hvar er GIT helst notað?
