@@ -1,1 +1,8 @@
 "Git Spurningar og Svör"
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
